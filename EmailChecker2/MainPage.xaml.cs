@@ -18,6 +18,7 @@
                     if (IndexEnt>0 && IndexEnt < ent.Length-1)
                     {
                         czyOk = true;
+                        czyOk = false;
                     }
                 } else { }
             }
